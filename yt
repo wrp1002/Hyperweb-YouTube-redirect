@@ -2,6 +2,5 @@
 window.location.href = `youtube://${window.location.host}${window.location.pathname}`;
 
 setTimeout(function() {
-alert("hi");
 close();
 }, 3000);
